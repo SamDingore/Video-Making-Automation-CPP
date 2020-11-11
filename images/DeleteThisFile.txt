@@ -1,0 +1,2 @@
+This is a folder for placing images.
+delete this file before execution.

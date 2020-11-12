@@ -16,7 +16,7 @@ Snap me: https://www.snapchat.com/add/sameer_dingore */
 #include <iostream>
 #include <dirent.h>
 #include <string.h>
-#include "one.h"
+#include "function.h"
 
 using namespace std;
 char TransferArray[1000];

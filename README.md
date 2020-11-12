@@ -28,3 +28,4 @@ the source (link above).
 - **Limit**(this is just a first vesrion so it only runs for limited files)
 
 a work in progress by Sam Dingore.
+a special thanks to Amanda Gibbons for inspiring me !

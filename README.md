@@ -22,9 +22,9 @@ If you would like to run this code you need to first install ffmpeg by compiling
 the source (link above).
 
 ### Directory structure
-- **output.c** (source code with driver function)
+- **output.cpp** (source code with driver function)
 - **examples/** (examples of output video and showcase )
-- **function.h** (header files for output.c)
+- **function.h** (header files for output.cpp)
 - **Limit**(this is just a first vesrion so it only runs for limited files)
 
 a work in progress by Sam Dingore.

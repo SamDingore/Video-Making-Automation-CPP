@@ -27,6 +27,6 @@ the source (link above).
 - **function.h** (header files for output.cpp)
 - **Limit**(this is just a first vesrion so it only runs for limited files)
 
-a work in progress by Sam Dingore.
+*a work in progress by Sam Dingore.*
 
-a special thanks to Amanda Gibbons for inspiring me !
+*a special thanks to Amanda Gibbons for inspiring me !*
